@@ -7,7 +7,7 @@ require("dotenv").config();
 // middleware
 const corsOptions = {
     //origin: "http://localhost:3000" // frontend URI (ReactJS)
-    origin: "",
+    origin: "https://psg-mern-frontend.onrender.com",
     //52.41.36.82,
     //54.191.253.12,
     //44.226.122.3
